@@ -1,0 +1,6 @@
+primitivos -> se copian cuando se asignan
+
+referencias -> se refencian cuando se asignan
+               - objetos
+               - arrays
+               - funciones
